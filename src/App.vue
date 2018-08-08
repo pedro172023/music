@@ -20,7 +20,7 @@ export default {
       artists: [],
       Countries: [
         {name: 'Argentina', value:'argentina'},
-        {name: 'Colombia', value:'colombia'},
+        {name: 'Colombia US', value:'colombia'},
         {name: 'España', value:'spain'},
       ],
       selectedCountry: 'argentina',
